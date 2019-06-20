@@ -1,0 +1,1 @@
+web: gunicorn csaplication.wsgi --log-file -
